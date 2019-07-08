@@ -12,6 +12,6 @@ Functionalitati:
 - Adminul si utilizatorii pot propune stiri, iar editorul le poate aproba sau respinge.
 - Editorul poate adauga si edita stiri
 
-! Inainte de rularea proiectului, trebuie dezarhivat fisierul _data.zip_, unde sunt continute restul fisierelor (imagini, baza de date, css)
+! Daca sunt probleme la baza de date, back-up exista in fisierul _data.zip_, inlocuiti fisierele
 
 ! To do: Trebuie modificate __ConnectionString__ deoarece path-ul este cel de pe localhost
